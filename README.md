@@ -68,4 +68,4 @@ To develop a **comprehensive credit card weekly dashboard** that provides **real
 
 
 ## 📧 Contact
-For queries or collaboration, connect with me on [LinkedIn](#) or [email](#) .
+For queries or collaboration, connect with me on [LinkedIn:https://www.linkedin.com/in/swati-mishra-801193308](#) .
